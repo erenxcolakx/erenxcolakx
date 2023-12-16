@@ -42,7 +42,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning Node.js<br>🎯 Goals: React.js, TypeScript</p>
+<p align="center">📚 I'm currently learning Node.js - JavaScript - API <br>🎯 Goals: React.js, TypeScript</p>
 
 ###
 
