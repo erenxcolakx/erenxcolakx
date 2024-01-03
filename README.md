@@ -42,7 +42,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning: Node.js - JavaScript - API 
+<p align="center">📚 I'm currently learning: Node.js - JavaScript - API - PostgreSQL
   (From Angela Yu's Web Dev Bootcamp)
   <br>🎯 Goals: React.js, TypeScript</p>
 
