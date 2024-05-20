@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I am a 2nd year student at Marmara University Computer Science Engineering Department. I improve myself in the field of Web Dev. 👨‍💻</h2>
+<h2 align="center">I am a 2nd year student at Marmara University Computer Science Engineering Department. I improve myself in the field of Web Dev and AI. 👨‍💻</h2>
 
 ###
 
@@ -46,8 +46,8 @@
 
 ###
 
-<p align="center">📚 I'm currently learning: Node.js - React.js
-  <br>🎯 Goals: Java Spring , TypeScript, AWS </p>
+<p align="center">📚 I'm currently learning: Node.js - React.js - LangChain
+  <br>🎯 Goals: TypeScript, AWS </p>
 
 ###
 
