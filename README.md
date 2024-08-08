@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I am a 2nd year student at Marmara University Computer Science Engineering Department. I improve myself in the field of Web Dev and AI. 👨‍💻</h2>
+<h2 align="center">I am a 3rd year student at Marmara University Computer Science Engineering Department. I improve myself in the field of Web Dev and AI. 👨‍💻</h2>
 
 ###
 
