@@ -45,9 +45,10 @@
 </div>
 
 ###
-
-<p align="center">📚 I'm currently learning: Node.js - React.js - LangChain
+<!--
+ <p align="center">📚 I'm currently learning: Node.js - React.js - LangChain
   <br>🎯 Goals: TypeScript, AWS </p>
+-->
 
 ###
 
