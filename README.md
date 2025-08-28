@@ -71,9 +71,9 @@
 </div>
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/erenxcolakx/erenxcolakx/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
